@@ -1,0 +1,116 @@
+body {
+    background-color: #5584AC;
+    margin: auto;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+}
+
+p {
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 02px;
+}
+
+#upload-data {
+    width: 100%;
+    height: 50px;
+    line-height: 50px;
+    border: 1px dashed;
+    border-radius: 5px;
+    text-align: center;
+    margin: auto;
+    color: white;
+}
+
+#container {
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: white;
+    border-radius: 20px;
+}
+
+#header {
+    padding: 20px;
+    background-color: #22577E;
+    margin-bottom: 50px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+#upload,
+#tabel,
+#input,
+#output {
+    padding: 10px;
+    background-color: #5584AC;
+    border-radius: 10px;
+}
+
+hr {
+    margin: 50px 0px;
+}
+
+#footer {
+    color: white;
+    background-color: #22577E;
+    margin-top: 50px;
+    padding: 10px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+button {
+    color: white;
+    background-color: #5584AC;
+    padding: 5px 15px;
+    margin-top: 20px;
+    margin-bottom: 5px;
+    border: 1px solid white;
+    /* border-color: #d9d9d9 #ccc #b3b3b3; */
+    border-radius: 5px;
+}
+
+button:hover,
+#upload-data:hover {
+    color: #5584AC;
+    background-color: white;
+    border-radius: 5px;
+}
+
+#footer p {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+#tabel p {
+    margin-bottom: 5px;
+}
+
+.main-svg {
+    border-radius: 5px;
+}
+
+#judul {
+    color: #333;
+    width: 100%;
+    height: 36px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    padding-left: 7px;
+}
+
+#error {
+    width: 40%;
+    color: white;
+    text-align: center;
+    background-color: #22577E;
+    border-radius: 5px;
+    margin: auto;
+    margin-top: 50px;
+    padding: 10px;
+}
