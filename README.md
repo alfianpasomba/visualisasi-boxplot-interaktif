@@ -1,0 +1,2 @@
+# Informasi Project
+Project ini adalah tugas akhir mata kuliah pemrograman data sains dimana setiap orang diminta untuk membuat dashboard interaktif dimana pengguna bisa mengupload data dan melihat hasilnya. Saya mendapatkan tugas visualisasi sehingga saya memilih boxplot. Project ini menggunakan bahasa pemrograman python dan library pandas, plotly dan plotly-dash. Saya juga menambahkan custom css untuk mempercantik tampilan.
